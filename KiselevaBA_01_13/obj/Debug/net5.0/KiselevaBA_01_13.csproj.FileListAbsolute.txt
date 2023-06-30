@@ -1,0 +1,16 @@
+C:\ExamKiseleva\ExamClass\KiselevaBA_01_13\bin\Debug\net5.0\KiselevaBA_01_13.exe
+C:\ExamKiseleva\ExamClass\KiselevaBA_01_13\bin\Debug\net5.0\KiselevaBA_01_13.deps.json
+C:\ExamKiseleva\ExamClass\KiselevaBA_01_13\bin\Debug\net5.0\KiselevaBA_01_13.runtimeconfig.json
+C:\ExamKiseleva\ExamClass\KiselevaBA_01_13\bin\Debug\net5.0\KiselevaBA_01_13.runtimeconfig.dev.json
+C:\ExamKiseleva\ExamClass\KiselevaBA_01_13\bin\Debug\net5.0\KiselevaBA_01_13.dll
+C:\ExamKiseleva\ExamClass\KiselevaBA_01_13\bin\Debug\net5.0\ref\KiselevaBA_01_13.dll
+C:\ExamKiseleva\ExamClass\KiselevaBA_01_13\bin\Debug\net5.0\KiselevaBA_01_13.pdb
+C:\ExamKiseleva\ExamClass\KiselevaBA_01_13\obj\Debug\net5.0\KiselevaBA_01_13.csproj.AssemblyReference.cache
+C:\ExamKiseleva\ExamClass\KiselevaBA_01_13\obj\Debug\net5.0\KiselevaBA_01_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExamKiseleva\ExamClass\KiselevaBA_01_13\obj\Debug\net5.0\KiselevaBA_01_13.AssemblyInfoInputs.cache
+C:\ExamKiseleva\ExamClass\KiselevaBA_01_13\obj\Debug\net5.0\KiselevaBA_01_13.AssemblyInfo.cs
+C:\ExamKiseleva\ExamClass\KiselevaBA_01_13\obj\Debug\net5.0\KiselevaBA_01_13.csproj.CoreCompileInputs.cache
+C:\ExamKiseleva\ExamClass\KiselevaBA_01_13\obj\Debug\net5.0\KiselevaBA_01_13.dll
+C:\ExamKiseleva\ExamClass\KiselevaBA_01_13\obj\Debug\net5.0\ref\KiselevaBA_01_13.dll
+C:\ExamKiseleva\ExamClass\KiselevaBA_01_13\obj\Debug\net5.0\KiselevaBA_01_13.pdb
+C:\ExamKiseleva\ExamClass\KiselevaBA_01_13\obj\Debug\net5.0\KiselevaBA_01_13.genruntimeconfig.cache
